@@ -1,0 +1,4 @@
+.DS_Store
+.anima/
+__pycache__/
+venv/
